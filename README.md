@@ -22,7 +22,7 @@ The whole process would look like
 - Main.py -> Entire code for web scraping job offers in Linkedin with Selenium
 - Cred.txt -> Contains credentials
 - Job_desc.txt -> Contains Job Description
-- linkedin.csv -> Conatains Scraped Dataset
+- linkedin.csv -> Conatins Scraped Dataset
 - DFD.png -> Data Flow of project
 ## Future Ideas
 - Text dataset preprocessing
