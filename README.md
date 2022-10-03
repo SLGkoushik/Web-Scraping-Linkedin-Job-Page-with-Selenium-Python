@@ -7,7 +7,7 @@ The whole process would look like
 - Look for the cookies pop-up and click it. Allow cookies
 - Fill in the E-Mail Address and Password fields, then click Login.
 - Select Jobs from the area above.
-- Look for job openings. Spain's Junior Data Analyst
+- Look for job openings. India's Data Scientist
 - Scroll down to the bottom of the page to collect the link to each presented Job offer.
 - When you reach the end of the page, proceed to the next page while continuing to collect links.
 - After you've gathered all of the links, go to each one.
