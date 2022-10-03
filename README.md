@@ -23,6 +23,7 @@ The whole process would look like
 - Cred.txt -> Contains credentials
 - Job_desc.txt -> Contains Job Description
 - linkedin.csv -> Conatains Scraped Dataset
+- DFD.png -> Data Flow of project
 ## Future Ideas
 - Text dataset preprocessing
 - ML model to predict fake job listings
