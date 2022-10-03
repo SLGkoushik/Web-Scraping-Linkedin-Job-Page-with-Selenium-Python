@@ -88,8 +88,10 @@ for l in l1:
 df = pd.DataFrame(list(zip(Job_Title, Company_Name, Company_Location, Work_Method, Post_Date)),
                   columns=["Job_Title", "Company_Name", "Company_Location", "Work_Method", "Post_Date"])
 df.to_csv("linkedin.csv", index=False)
-job_desc = open("Job_desc.txt", "w+")
 # creating Job_description file
+job_desc = open("Job_desc.txt", "w+")
 for data in Job_Description:
     job_desc.writelines(data)
 job_desc.close()
+#closing driver
+driver.close()
