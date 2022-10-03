@@ -1,0 +1,622 @@
+About the job
+Company Description
+
+At ServiceNow, our technology makes the world work for everyone, and our people make it possible. We move fast because the world can’t wait, and we innovate in ways no one else can for our customers and communities. By joining ServiceNow, you are part of an ambitious team of change makers who have a restless curiosity and a drive for ingenuity. We know that your best work happens when you live your best life and share your unique talents, so we do everything we can to make that possible. We dream big together, supporting each other to make our individual and collective dreams come true. The future is ours, and it starts with you.
+
+With more than 7,400+ customers, we serve approximately 80% of the Fortune 500, and we're proud to be one of FORTUNE's 100 Best Companies to Work For® and World's Most Admired Companies® 2022.
+
+Learn more on Life at Now blog and hear from our employees about their experiences working at ServiceNow.
+
+Unsure if you meet all the qualifications of a job description but are deeply excited about the role? We still encourage you to apply! At ServiceNow, we are committed to creating an inclusive environment where all voices are heard, valued, and respected. We welcome all candidates, including individuals from non-traditional, varied backgrounds, that might not come from a typical path connected to this role. We believe skills and experience are transferrable, and the desire to dream big makes for great candidates.
+
+Job Description
+
+What you get to do in this role:
+
+The Advanced Technology Group (ATG) at ServiceNow is a customer-focused innovation group building intelligent software and smart user experiences using existing and emerging data and AI technologies to enable end-to-end, industry leading work experiences for customers. We are a group of researchers, applied scientists, engineers and product managers with a dual mission. We build and evolve the AI platform, and partner closely with business units to build products and end-to-end AI-powered work experiences for customers. In equal measure, we lay the foundations, research, experiment, and de-risk AI technologies that unlock new work experiences in the future.
+
+Team
+
+Come join the AI Solution Success team in the Advanced Technology Group (ATG). We are focused on customer-facing and internal projects. You’ll work alongside a team of seasoned professionals working on leading edge, innovative projects to help drive the business. This global team is highly collaborative and shares the best practices. We work on scalable AI (Artificial Intelligence) solutions, so if you are a results-oriented visionary that likes to dream big, come join our team!
+
+Who we are?
+
+We are a team composed of cross-functional SMEs from ATG, Platform, Business Units, Customer Outcomes and QE and multiple customer-focused teams of ML, SW, and QE engineers that bring varied perspectives and diverse expertise to drive customer adoption of AI experiences, as well as guide customer driven innovation within ATG.
+
+What's our purpose?
+
+Accelerate value realization of AI-powered workflows by customers at scale.
+
+What we do?
+
+Work with early adopters to validate AI solutions and realize value by learning and quickly improving the solution on real customer data. We'll create practical playbooks to guide new implementations, boost adoption and drive future product innovation. Some of the work the team has been instrumental at is to improve customer adoption of our multi-language Natural Language Understanding (NLU), AI search and other related AI solutions with customers.
+
+What you get to do in this role:
+
+Join our dynamic team of developers as we enhance our AI capabilities. Part of your role will be to define and implement AI-related products, including conversational flows, to solve complex user issues with ease.
+Experiment with the latest ServiceNow AI offerings like Virtual Agent, NLU, AI Search and other upcoming capabilities before/after they hit the market. These capabilities may include Predictive Machine Learning Models, Federated Learning, and semi-supervised learning-based AI Solutions.
+Explore deep learning-based AI products in terms of their architecture and complete product perspective. You are on the forefront of implementing solutions, like conversational flows, that are powered by NLU models.
+Act as an SME to solve complex user issues related to AI solutions and VA conversational flows. You will become an expert at developing solutions involving chatbot conversations with rich content and tailored experiences across various channels, AI Search configuration serving many applications, etc.
+Help define best practices to build and use AI products and various AI testing tools with customers and educate the team. Such tools may involve auto conflict detection, automation discovery, topic recommendation or batch testing tools.
+Analyze metrics to continuously measure the quality and E2E experiences of AI solutions with actionable insights.
+Advocate best practices for AI based ITSM/HR/CSM automation.
+Prepare technical deliverables for customers in a consistent, high quality, and timely manner.
+Support the team with feedback to product teams to continually improve and expand product capabilities, features, and interoperability in consideration of customer needs and requirements. You will bring the on-ground issues faced by customers to the table.
+Work closely with internal stakeholders to ensure appropriate escalation of technical support issues.
+Be the technical escalation point in solving customer issues and coordinating and prioritizing timely resolutions with our engineering team.
+
+Qualifications
+
+To be successful in this role you have:
+
+Demonstrated skills as an active listener, respecting others' point of view while contributing the required input through strong communication skills (written, interpersonal and presentation)
+Ability to influence and consult (providing options with pros, cons, and risks) when solving business processes and/or technical problems during project delivery.
+Interpersonal skills, customer-centric attitude, and ability to deal with cultural diversity.
+Demonstrated ability to achieve stretch goals in a highly innovative and fast paced environment.
+Experience with documentation and presentations -- preferably supporting customer workshops and publishing technical reports, tutorials as articles, etc.
+Flexibility to work across global time zones
+
+Technical Skills
+
+Experience and deep understanding of ServiceNow Workflows and Flow Designer tools.
+Preferred Expertise with integrations and Integration Hub
+Expertise with ServiceNow scripting (JavaScript) and Java
+Experience with performing analysis using MS Excel or other analytical tools
+Passionate technical problem-solver with experience handling integrations with various systems.
+
+Analytical Skills
+
+Understand Customer data by using NLU and other tooling and identify top issues that need to be automated.
+Understand model precision characteristics.
+Understand conversations/nomenclature that are applicable across customers.
+
+Communication Skills
+
+Strong customer-facing communication skills with sharp analytical skills to clearly identify root cause of issues in product.
+Identify productization opportunities, initiate discussions with the team, and carry forward the initiatives to completion.
+Work with customers through their product journey and provide guidance for maintenance of the product.
+
+What You Will Bring
+
+Minimum of 5 years of relevant work experience in a customer facing technical role.
+You have a proven track record of driving deployments with large Enterprise companies with multiple stakeholders -- preferably AI-based products.
+You are confident in your programming proficiency in Java or JavaScript and enjoy thinking about business problems at a high level.
+You have a passion for discovering customer use cases, identifying gaps and resolving issues in the product.
+
+FD21
+
+Additional Information
+
+ServiceNow is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status, veteran status or any other category protected by law.
+
+At ServiceNow, we lead with flexibility and trust in our distributed world of work. Click here to learn about our work personas: flexible, remote and required-in-office.
+
+All new employees hired in the United States are required to be fully vaccinated against COVID-19, subject to such exceptions as required by law. If hired, you will be required to submit proof of full vaccination or have an approved accommodation, by your start date. Visit our Candidate FAQ page to learn more.
+
+If you require a reasonable accommodation to complete any part of the application process, or are limited in the ability or unable to access or use this online application process and need an alternative method for applying, you may contact us at talent.acquisition@servicenow.com for assistance.
+
+For positions requiring access to technical data subject to export control regulations, including Export Administration Regulations (EAR), ServiceNow may have to obtain export licensing approval from the U.S. Government for certain individuals. All employment is contingent upon ServiceNow obtaining any export license or other approval that may be required by the U.S. Government.
+
+Please Note: Fraudulent job postings/job scams are increasingly common. Click here to learn what to watch out for and how to protect yourself. All genuine ServiceNow job postings can be found through the ServiceNow Careers site. About the job
+Is anyone who might be interested in the Internship and Training program in Data science int ?
+
+The mode of training and internship will be online
+
+🧑🏻‍🎓 Post Completion of Two months. You will be certified with some professional ISO certificate.
+🎓Training Completion Certificate
+🎓Internship Completion Certificate
+🎓Excellence Performance Certificate
+🎓LOR Certificate
+🎓Placement Assistance
+
+**TRAINING FEES APPLICABLE**
+
+APPLY NOW
+https://forms.gle/3wLSZUwZWXXkJGwX9 About the job
+Next Big Innovation Labs (NBIL) is a six year old Bioprinting company based out of Bangalore, India. The company is recognised under the Startup India and Startup Karnataka Schemes. NBIL is funded by the Karnataka State Government, Central Government, Tata Trusts and Lockheed Martin.
+
+We are an interdisciplinary team of 11 people who hail from backgrounds of biotechnology, engineering, business and strategy. Since its founding in May 2016, NBIL is backed by grants from the Central Government (Biotech Ignition Grant), StateGovernment (Idea2POCGrant), Tata and Lockheed Martin (India Innovation Growth Program 2.0)(Totalling upto INR 1.25 Crores). NBIL has started operations at Frankfurt and Berlin at Germany and is an incubatee as a part of Merck’s Accelerator Program at Darmstadt.
+
+Company Mission – To develop products and services using 3D Bioprinting to enhance and improve healthcare, cosmetic and clinical research. To push the boundaries of 3D Bioprinting technology to widen the applications of the technology.
+
+Company Vision – To bridge the gap between Global Organ Availability and Demand by achieving in-vitro organogenesis via the disruptive technology of 3D Bioprinting.
+
+What are we working on currently -
+
+Technology – NBIL has developed India’s first commercial 3D Bioprinters (Trivima) that are being built, with a high level of customizations, for some of the premiere institutes in India and around the world. Our goal in this domain is to continuously develop technology that can provide an impetus to the research done within and outside NBIL.
+
+3D Bioprinted Tissues – Each and every Tissue that we intend to create using 3D Bioprinting will have a short term and long-term impact. The immediate short-term impact would be to impact R&D and clinical research. The long-term vision for the tissues is direct human applications. We at NBIL are currently working on the development of 3D Bioprinted Skin and are calling it InnoSkin®. The immediate impact of InnoSkin® would be in Cosmetic, Clinical and Pharmaceutical Research and Development. The vision for us for InnoSkin® is to impact clinical care and treatments via direct application of InnoSkin®.
+
+Few Press Coverage about NBIL -
+
+Live Mint
+https://www.livemint.com/companies/news/3d-bioprinting-startup-puts-its-skin-in-the-game-11576453802729.html
+HANS India
+http://www.thehansindia.com/posts/index/Business/2018-03-25/This-startup-bioprints-3D-ski n/369243
+NDTV
+https://gadgets.ndtv.com/laptops/features/autodesk-university-2017-design-innovation-future -1790421
+Merck
+https://innovationcenter.merckgroup.com/news-events/all-news/detail/182-merck-accelerator-program-2019-kicks-off-with-ten-inspiring-startups/
+Biospectrum
+https://www.biospectrumindia.com/news/20/12511/merck-welcomes-10-startups-to-its-innovation-centre.html
+
+Job Role
+
+You will be working on developing the application that is used to control our bioprinters. You will work on designing and building the UI and designing and programming the backend.
+
+Strong desire to learn about new areas, you will often have to understand how the entire system works before you can start conceptualizing and programming.
+Come up with UI Concepts and implement the concepts.
+Understand the requirements from key stakeholders and program the required features into the application.
+Strong analytical skills, you will often have to evaluate what effects the changes will have.
+Quick learner, able to grasp new concepts quickly and efficiently
+Ability to work with unknowns, synthesize information/requirements and drive solutions to requirements.
+
+
+What We Are Looking For
+Minimum Qualification – Btech CSE, ISE, or Circuit Branches
+
+Strong desire to learn.
+Good knowledge and Experience of python.
+Interest in 3D Printing and Bioprinting.
+Basic understanding of electronics.
+
+Preferred –
+
+Projects programmed using python, J-son files and Kivy.
+Worked with 3D Printers
+Projects implemented on RaspberryPi.
+A good understanding of G-Codes will definitely earn you a lot of brownie points.
+Understanding of electronic communication protocols like I2C, SPI and Serial Communication. About the job
+592766BR
+
+Introduction
+
+As an Application Developer, you will lead IBM into the future by translating system requirements into the design and development of customized systems in an agile environment. The success of IBM is in your hands as you transform vital business needs into code and drive innovation. Your work will power IBM and its clients globally, collaborating and integrating code into enterprise systems. You will have access to the latest education, tools and technology, and a limitless career path with the world’s technology leader. Come to IBM and make a global impact!
+
+Your Role and Responsibilities
+
+Managing and developing C++ Applications.
+Bringing your expertise to solve the application criticality.
+C++ coding experience for product application.
+Experience on design, code development, unit test and maintain code quality as defined by project.
+
+Required Technical and Professional Expertise
+
+3-7 Years of C++ programming language experience.
+Good Knowledge required on QT.
+Should be able to design, code independently
+
+Preferred Technical And Professional Expertise
+
+Creative problem solving skills and excellent Communication Skill
+
+About Business Unit
+
+IBM Services is a team of business, strategy and technology consultants that design, build, and run foundational systems and services that is the backbone of the world's economy. IBM Services partners with the world's leading companies in over 170 countries to build smarter businesses by reimagining and reinventing through technology, with its outcome-focused methodologies, industry-leading portfolio and world class research and operations expertise leading to results-driven innovation and enduring excellence.
+
+This job requires you to be fully COVID-19 vaccinated prior to your start date and proof of vaccination status will be required before your start date. During the Onboarding process you will be asked to confirm your vaccination status, in case you are unable to get vaccinated for any reason, you can let us know at that stage. Please let us know if you are unable to be vaccinated due to medical or religious reasons. IBM will consider such requests on a case by case basis subject to submission of required proof by the candidate before a stipulated date.
+
+Your Life @ IBM
+
+Are you craving to learn more? Prepared to solve some of the world's most unique challenges? And ready to shape the future for millions of people? If so, then it's time to join us, express your individuality, unleash your curiosity and discover new possibilities.
+
+Every IBMer, and potential ones like yourself, has a voice, carves their own path, and uses their expertise to help co-create and add to our story. Together, we have the power to make meaningful change – to alter the fabric of our clients, of society and IBM itself, to create a truly positive impact and make the world work better for everyone.
+
+It's time to define your career.
+
+About IBM
+
+IBM’s greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business. At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.
+
+Location Statement
+
+When applying to jobs of your interest, we recommend that you do so for those that match your experience and expertise. Our recruiters advise that you apply to not more than 3 roles in a year for the best candidate experience.
+
+For additional information about location requirements, please discuss with the recruiter following submission of your application.
+
+Being You @ IBM
+
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status. About the job
+Position Description
+
+Our mission is to deliver complete Integrated solutions to the Volvo Construction Equipment area with the highest possible level of quality with supporting Volvo CE customers, dealers, and internal consumers. We also d evelop and deliver a portfolio of commercial APIs, a key product in Volvo CEs services offering of the future.
+
+We are experiencing the greatest shift in the history of transport and infrastructure. Tomorrow’s vehicles and construction equipment are electric, connected, and autonomous, increasing safety and reducing environmental impact. With more than 1 million connected vehicles, Volvo Group is at the forefront of this evolution. Our ambition for 2030 is to be 100% safe, fossil-free and more productive, and to have 50% of revenues coming from areas other than our physical products. The shift is here, are you in?
+
+Drive our digital transformation
+
+We are on an exciting journey within Volvo Group Digital & IT. Digital Delivery is a new function within the Volvo Group Digital & IT that aims to identify and execute new digital initiatives and modernize existing solutions across the Volvo Group brands. With a new product-centric operating model and modern technology architecture, we create digital products that are profitable, scalable, and differentiated. We use a cross-functional approach to work on product design and deliveries that improves business performance and creates value for the entire Volvo Group. Here you will contribute to a team of software engineers who learn continuously and embrace change to stay ahead.
+
+Who are you?
+
+I help users of Integration systems identify defects and propose changes and improvement activities for an assigned application or group of applications. I support users by resolving the defects or providing temporary workarounds to keep the application operational when needed, supporting users from simple to complex cases, and working mainly in the process related to the delivery of run-time service.
+
+What You Will Do
+
+Support users by explaining system capabilities, handling questions and solving incidents
+Analyse user problems in areas of responsibility and support business users with efficient usage of the API’s
+Identify actual and potential software problems and provide analysis to the maintenance team according to Incident Management principles
+Follow recommended Ways of Working with Incident & Knowledge Management systems for reporting and tracking
+Propose changes and improvement activities that make the application more efficient and/or reduce operation or maintenance cost
+Participate and contribute to planning of application maintenance and enhancement activities
+Identify scope of automation in repetitive tasks
+Contribute actively in relevant D& IT communities and bodies with respect to process improvements & best practice sharing
+
+
+Key responsibilities:
+
+We are looking for a Java developer to take a role in our support team. You will join a growing global DevOps team and work with support, troubleshooting, documentation, and development of our portfolio of 100+ integration services. To succeed in the role, you will need a creative, flexible, and structured mindset with a passion for customer support.
+
+We’re looking for:
+
+A responsible and self-motivated team player who likes to learn on the job and find solutions to problems.
+A “can-do” customer service mindset with experience from working with support in a global setting and interacting directly with customers in calls or via email.
+Continuous Improvement mindset
+
+
+Other skills:
+
+Proficiency in Java development
+Familiarity with IBM middleware and integration platforms (WebSphere, MQ, and API Connect) a plus.
+
+.
+
+Shape the world you want to live in
+
+With us you have the possibility to work on complex problems, leveraging new and emerging technologies to drive the transformation of industry on a global scale – and have a positive impact on society at large. We value flexibility and work-life balance and believe in open dialogue, feedback, and transparent communication. By joining us you will contribute to shaping future innovations and advancing existing breakthroughs.
+
+Location of position
+
+This job position is located in Bangalore. Relocation support can be provided if needed.
+
+Send your application today
+
+Make sure your time matters. Join us and shape the world into the bright place you want to live in.
+
+We look forward to receiving your application.
+
+About Us
+
+The Volvo Group drives prosperity through transport solutions, offering trucks, buses, construction equipment, power solutions for marine and industrial applications, financing and services that increase our customers’ uptime and productivity. Founded in 1927, the Volvo Group is committed to shaping the future landscape of sustainable transport and infrastructure solutions. Countless career opportunities are offered across the group’s leading brands and entities that share a culture of Trust, Passion, High Performance, Change and Customer Success.
+
+www.volvogroup.com/career.
+
+Group Digital & IT has the ambition to enable value creation at scale for the Volvo Group. Digital solutions are becoming more and more key in the industries, where we are operating. The solutions and emerging technologies, provided by Group Digital & IT, enable our customers and their customers to do more with less, better for others and best for the future.
+
+We are 3,600 employees located in more than 30 countries, present at all major Volvo Group locations, and we are working in a completely global organization.
+
+In Group Digital & IT we strive for something bigger, we are truly customer centric, and we collaborate with inclusion, together cross the Volvo Group. We learn to stay ahead, we are curious and eager to acquire new and deeper knowledge, both as individuals and as teams.
+
+Auto req ID
+
+132669BR
+
+Organization
+
+Group Digital & IT
+
+State / Province
+
+Karnataka
+
+City/Town
+
+Bangalore
+
+Employment/Assignment Type
+
+Regular
+
+Travel Required (maximum)
+
+Occasional Travel
+
+Functional Area
+
+Information Technology
+
+Last application date
+
+14-Oct-2022 About the job
+This role has been designated as ‘Edge’, which means you will primarily work outside of an HPE office.
+
+Job Description
+
+Hewlett Packard Enterprise advances the way people live and work. We bring together the brightest minds to create breakthrough technology solutions, helping our customers make their mark on the world.
+
+Our new innovative IT services organization is HPE Pointnext. We have the expertise to advise, integrate, and accelerate our customers’ outcomes from their digital transformation.
+
+5-10 years of experience manipulating data sets and building statistical models
+Mine and analyze data from company databases to drive optimization and improvement of product development, marketing techniques and business strategies.
+Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+Develop custom data models and algorithms to apply to data sets.
+Use predictive modeling to increase and optimize customer experiences, revenue generation, ad targeting and other business outcomes.
+Coordinate with different functional teams to implement models and monitor outcomes.
+Develop processes and tools to monitor and analyze model performance and data accuracy.
+Strong problem solving skills with an emphasis on product development.
+Experience using statistical computer languages (R, Python, SQL, etc.) to manipulate data and draw insights from large data sets.
+Experience working with and creating data architectures.
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.
+Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.
+Excellent written and verbal communication skills for coordinating across teams.
+A drive to learn and master new technologies and techniques.
+
+Skills Preferred
+
+Minimum 5 years experience in statistical and data mining techniques: GLM/Regression, Random Forest, Boosting, Trees, text mining, social network analysis, etc.
+
+>5 years Experience querying databases and using statistical computer languages: R, Python, SQL, etc.
+Experience using web services: Redshift, S3, Spark, DigitalOcean, etc.
+Experience creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, etc.
+Experience with distributed data/computing tools: Map/Reduce, Hadoop, Hive, Spark, Gurobi, MySQL, etc.
+Experience visualizing/presenting data for stakeholders using: Periscope, Business Objects, D3, ggplot, etc.
+Experience in OCR and Face Recognition algorithms
+Strong understanding of text preprocessing and normalization techniques, such as tokenization, POS tagging, and parsing
+Should know following frameworks : TensorFlow, PyTorch, Caffe, mxnet, Keras and Theano.
+
+If you are…
+
+Good at partnering, innovating, and making things happen. You are aligned to our core values.
+Holding a Bachelor's or Master's degree in Computer Science, Information Systems, or equivalent
+A professional with strong analytical and problem-solving skills
+Experienced in software application design tools and programming languages
+Excellent in verbal and written communication and presentation
+
+Join us and make your mark!
+
+We Offer
+
+A competitive salary and extensive social benefits
+Diverse and dynamic work environment
+Work-life balance and support for career development
+An amazing life inside the element! Want to know more about it?
+
+Then let’s stay connected!
+
+https://www.facebook.com/HPECareers
+
+https://twitter.com/HPE_Careers
+
+HPE is an Equal Employment Opportunity/ Veterans/Disabled/LGBT and Affirmative Action employer. We are committed to diversity and building a team that represents a variety of backgrounds, perspectives, and skills. We do not discriminate and all decisions we make are made on the basis of qualifications, merit, and business need. Our goal is to be one global diverse team that is representative of our customers, in an inclusive environment where we can continue to innovate and grow together.
+
+#GRSBAPREMERTECH
+
+Job
+
+Engineering
+
+Job Level
+
+Expert
+
+Hewlett Packard Enterprise is EEO F/M/Protected Veteran/ Individual with Disabilities.
+
+HPE will comply with all applicable laws related to the use of arrest and conviction records, including the San Francisco Fair Chance Ordinance and similar laws and will consider for employment qualified applicants with criminal histories. About the job
+Come create the technology that helps the world act together
+
+Nokia is committed to innovation and technology leadership across mobile, fixed and cloud networks. Your career here will have a positive impact on people’s lives and will help us build the capabilities needed for a more productive, sustainable, and inclusive world. We challenge ourselves to create an inclusive way of working where we are open to new ideas, empowered to take risks and fearless to bring our authentic selves to work.
+
+The team you'll be part of
+
+Our Business Group is a leader in wireless mobility networks and associated services. With more than 3.500 patent families essential for 5G we have a strong 5G portfolio and are a front runner in open and virtualized radio access networks (O-RAN and vRAN).
+
+Your Skills And Experience
+5 - 8 years of application / middleware / DEVOPS experience
+Good programming skills in C++, Python & Scripting on Linux platforms.
+Knowledge of Kubernetes, Dockers, Containers is added advantage
+Hands on experience in Development, Module/Unit/Functional Testing & debugging
+
+What We Offer
+
+Nokia offers flexible and hybrid working schemes, continuous learning opportunities, well-being programs to support you mentally and physically, opportunities to join and get supported by employee resource groups, mentoring programs and highly diverse teams with an inclusive culture where people thrive and are empowered.
+
+Nokia is committed to inclusion and is an equal opportunity employer
+
+Nokia has received the following recognitions for its commitment to inclusion & equality:
+One of the World’s Most Ethical Companies by Ethisphere
+Gender-Equality Index by Bloomberg
+Workplace Pride Global Benchmark
+LGBT+ equality & best place to work by HRC Foundation
+
+At Nokia, we act inclusively and respect the uniqueness of people.
+
+Nokia’s employment decisions are made regardless of race, color, national or ethnic origin, religion, gender, sexual orientation, gender identity or expression, age, marital status, disability, protected veteran status or other characteristics protected by law.
+
+We are committed to a culture of inclusion built upon our core value of respect.
+
+Join us and be part of a company where you will feel included and empowered to succeed.
+
+Job
+
+Software - Applied R&D Engineer
+
+Primary Location
+
+India-India-Karnataka-Bangalore About the job
+571176BR
+
+Introduction
+
+As an Application Developer, you will lead IBM into the future by translating system requirements into the design and development of customized systems in an agile environment. The success of IBM is in your hands as you transform vital business needs into code and drive innovation. Your work will power IBM and its clients globally, collaborating and integrating code into enterprise systems. You will have access to the latest education, tools and technology, and a limitless career path with the world’s technology leader. Come to IBM and make a global impact!
+
+Your Role and Responsibilities
+
+You will be involved in integration of projects using IBM WebSphere Integrator Message Broker tool kit.
+Ownership of deploying integration components in development environments.
+Client interaction and ability to lead and guide teams on developing solutions that fully integrate and collaborate with existing IT systems to perform an automated business function.
+You will design and develop maps, message flows and configure/develop adaptors.
+Participates in all design sessions and provides technical leadership (including technical decisions, technology recommendations, defining standards, leading POCs, and mentoring developers.
+Define the strategy and overall vision for solutions.
+Provide complete solution designs that consider cost, performance, scalability, reusability, and extensibility.
+Document application requirements, technical specifications, use-cases, workflow processes.
+Prepare Mapping Specification and Integration Design document.
+You will work with Business and Application teams to elaborate both Functional and non-functional requirement.
+Mentor and develop skills of other members of the team. Collaborate with other development and integration team members to ensure Service-Oriented Architecture (SOA) Integration technologies are implemented and maintained.
+
+Required Technical and Professional Expertise
+
+6+ Years hands on experience on doing Analysis, Integration design and document Interface requirement.
+2+ Years of experience on ITX (IBM Transformation Extender) map development.
+2+ Years experience on DML (Insert, Update and Select)
+Experience working with integration solutions as IT Architect
+Extensive knowledge about appointed integration infrastructure components
+Detailed knowledge of IBM MQ and IBM Websphere Message Broker 8 or IIB
+Knowledge in Integration Development Routine
+Knowledge in governance regarding integration solutions
+Demonstrable Experience with creating, performance tuning, and troubleshooting message flows
+
+Preferred Technical And Professional Expertise
+
+Experienced on IBM Integration Bus (preferably worked on at least 2 projects and have developed 5 flows)
+Experience in WebSphere SOA integration Middleware would be an added advantage.
+
+About Business Unit
+
+IBM Services is a team of business, strategy and technology consultants that design, build, and run foundational systems and services that is the backbone of the world's economy. IBM Services partners with the world's leading companies in over 170 countries to build smarter businesses by reimagining and reinventing through technology, with its outcome-focused methodologies, industry-leading portfolio and world class research and operations expertise leading to results-driven innovation and enduring excellence.
+
+This job requires you to be fully COVID-19 vaccinated prior to your start date and proof of vaccination status will be required before your start date. During the Onboarding process you will be asked to confirm your vaccination status, in case you are unable to get vaccinated for any reason, you can let us know at that stage. Please let us know if you are unable to be vaccinated due to medical or religious reasons. IBM will consider such requests on a case by case basis subject to submission of required proof by the candidate before a stipulated date.
+
+Your Life @ IBM
+
+Are you craving to learn more? Prepared to solve some of the world's most unique challenges? And ready to shape the future for millions of people? If so, then it's time to join us, express your individuality, unleash your curiosity and discover new possibilities.
+
+Every IBMer, and potential ones like yourself, has a voice, carves their own path, and uses their expertise to help co-create and add to our story. Together, we have the power to make meaningful change – to alter the fabric of our clients, of society and IBM itself, to create a truly positive impact and make the world work better for everyone.
+
+It's time to define your career.
+
+About IBM
+
+IBM’s greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business. At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.
+
+Location Statement
+
+When applying to jobs of your interest, we recommend that you do so for those that match your experience and expertise. Our recruiters advise that you apply to not more than 3 roles in a year for the best candidate experience.
+
+For additional information about location requirements, please discuss with the recruiter following submission of your application.
+
+Being You @ IBM
+
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status. About the job
+Primary Roles and Responsibilities:
+
+Adapt to process and product quickly
+Work closely with Architects and contrubite to POC, product line with new technology aspects
+Design and develop programming systems .
+Research and recommend software tools to management.
+Provide assistance to testers and support personnel as needed to determine system problems.
+Additional skills and/or areas of expertise:
+Ability to solve problems quickly and completely.
+Ability to identify tasks which require automation and automate them.
+Possess excellent communication skills, with an emphasis on verbal and written communication.
+Possess a positive attitude. Ability to "think outside the box".
+
+Qualifications
+
+The candidate must be a Graduate/post graduate Electrical/Electronics/Computer Engineer
+
+Schedule: Full-time
+
+Req: 007A5K About the job
+We're looking for a SDET
+
+SumTotal, now part of Cornerstone OnDemand, offers All the tools your organization needs to drive compliance, employee skilling and upskilling, and career development and planning. Provide your employees with a powerful, engaging and personalized learning experience for development and growth. We are all about making work matter. We believe every team member has the potential to be AMAZING. We are bold, sharp, driven and most of all, real. Join us in our quest to democratize learning and help individuals unleash their edge.
+
+Overview
+
+We are looking for a SDET with good analytical and technical skills to be part of the team that develops our enterprise solutions. Intern will get opportunity to work with senior team members and learn skills of testing and maintenance of our products.
+
+They will be part of the core product development team that spans multiple locations.
+
+You’ve Got What It Takes If You Have...
+BE(CS or IT) or Masters degree in Computers
+3-4 years experience in software Automation and testing
+Well versed with Selenium Webdriver, Java, GIT, Jenkins, and SQL
+Experience in API testing using rest assured or similar tool
+Must have the ability to fix and resolve broken automated scripts
+Ability to troubleshoot issues with virtual machines and testing environments
+Good problem solving/Debugging skills
+Desired Skills
+Experience in test automation of micro services
+Deep understanding of different test automation approaches (keyword-driven, Data-driven, BDD, hybrid) and technology stacks (Java, .NET/C#, JavaScript, etc.)
+Ability to contribute individually and work well with a team, work optimally under scheduled deadlines, and have passion for delivering high quality output
+Our Culture
+
+Our mission is to empower people, businesses and communities. A culture created less by what we do and more by who we are. When people ask what our team is about, we point to our core values: champion customer success, bring our best, achieve together, get stuff done, and innovate every day. We're always on the lookout for new, curious and capable people who can help us achieve our goal and we are seeking diversity in the people who join our team. We want to make sure that our company reflects the demographic of our customers, clients, and the communities in which we operate. So if you want to work for a friendly, global, inclusive and innovative company, we'd love to meet you!
+
+What We Do
+
+Cornerstone is a premier people development company. We believe people can achieve anything when they have the right development and growth opportunities. We offer organizations the technology, content, expertise and specialized focus to help them realize the potential of their people. Featuring comprehensive recruiting, personalized learning, modern training content, development-driven performance management and holistic employee data management and insights, Cornerstone’s people development solutions are successfully used by more than 90 million+ people in 180+ countries and in nearly 50 languages.
+
+Cornerstone takes special care to ensure the security and privacy of the data of its users.
+
+Check us out on Linkedin , Comparably , Glassdoor , and Facebook ! About the job
+With a startup spirit and 90,000+ curious and courageous minds, we have the expertise to go deep with the world’s biggest brands—and we have fun doing it. Now, we’re calling all you rule-breakers and risk-takers who see the world differently and are bold enough to reinvent it.
+
+Transformation happens here. Come, be a part of our exciting journey!
+
+Are you the one we are looking for?
+
+Inviting applications for the role of Manager, Data Scientist!
+
+In this role, you are expected think strategically about data as a core enterprise asset and assist in all phases of the advanced analytic development process
+
+Responsibilities
+
+Support advanced analytical and data mining efforts which could include but not limited to clustering, segmentation, logistic and multivariate regression, decision/CART trees, neural networks, time-series analysis, sentiment analysis, topic modeling, random forests, and Bayesian analysis
+The scope of work includes Forecast, Prediction Models, Outlier Reporting, Payment Integrity violation identification, Adhoc analysis
+Implementation of Supervised and Unsupervised model development techniques
+Work with Data engineers to supervise and help institutionalize models and dashboards for the Analytics team of leading Healthcare client
+Develops ML models using identified features and packages
+Responsible for maintenance and performance monitoring of the production environment for the Advanced Analytics team
+Manage the design of complex and large-scale datasets to be used for statistical modeling and data mining.
+Slice and dice through the database and come up with actionable analytical insights
+Work with key stakeholders to generate and test hypotheses
+Conduct explanatory data analysis and prepare data sources to be analyzed.
+
+Qualifications we seek in you!
+
+Minimum Qualifications
+
+Bachelors or master's degree with a specialization in statistics, applied mathematics, economics, finance, computer science or Information systems/science; Preference is given to candidates with demonstrated academic achievement in core subjects and proficiency in quantitative subject matter (Advanced Statistics coursework, Predictive Modeling projects). Familiarity with PBM or Healthcare industry.
+Proven Healthcare domain experience
+Facility with one or more quantitative data analysis languages such as R, SciPy, NumPy, SQL, Python, SAS, SPSS
+Experience with relational database management systems (Oracle, Teradata, SQL Server, DB2)
+Experience with contemporary big data technologies (Hadoop, HIVE, PIG, MapReduce)
+Facility with one or more data analysis methods such as regression, decision trees, experimental designs, support vector machines, machine learning, and text mining
+Proficiency with Microsoft Office Suite
+
+Preferred Qualifications
+
+Work in a dynamic and fast-paced environment without compromising the quality
+Solid communication skills with exposure to direct client communication is preferred
+Excellent domain knowledge on US Healthcare is preferred
+
+Genpact is an Equal Opportunity Employer and considers applicants for all positions without regard to race, color, religion or belief, sex, age, national origin, citizenship status, marital status, military/veteran status, genetic information, sexual orientation, gender identity, physical or mental disability or any other characteristic protected by applicable laws. Genpact is committed to creating a dynamic work environment that values diversity and inclusion, respect and integrity, customer focus, and innovation. For more information, visit www.genpact.com. Follow us on Twitter, Facebook, LinkedIn, and YouTube.
+
+Job
+
+Manager
+
+Primary Location
+
+India-Hyderabad
+
+Education Level
+
+Bachelor's / Graduation / Equivalent
+
+Job Posting
+
+Sep 12, 2022, 6:17:33 AM
+
+Unposting Date
+
+Ongoing
+
+Master Skills List
+
+Digital
+
+Job Category
+
+Full Time
